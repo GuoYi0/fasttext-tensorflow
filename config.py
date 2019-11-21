@@ -8,8 +8,8 @@ split = '\t'
 stop_words_file = "E:\\zsm\\ads_cls\\data\\stopwords\\stopwords.txt"  # 停用词集
 vocab_dir = "E:\\zsm\\ads_cls\\data\\vocab"  # 词汇表
 eval_batch_size = 1  # 测试时候每次多少条数据
-ckpt_path = "E:\\zsm\\ads_cls\\data\\ckpt"  # 模型训练的时候保存地址
+ckpt_path = "E:\\zsm\\ads_cls\\ckpt"  # 模型训练的时候保存地址
 # =====================================================================================
-train_file = "E:\\zsm\\fasttext_tf\\data\\dataset\\train.txt"  # 训练集
+train_file = "E:\zsm\\ads_cls\\data\\dataset\\train.txt"  # 训练集
 test_file = "E:\\zsm\\ads_cls\\data\\dataset\\test.txt"  # 测试集
-label_file = "E:\\zsm\\ads_cls\data\dataset\class_zh.txt"  # 标签集
+label_file = "E:\\zsm\\ads_cls\\data\\dataset\\class_zh.txt"  # 标签集

@@ -4,4 +4,5 @@ test.py
 __pycache__
 .git
 data/vocab
-ckpt/*
+data/ckpt/*
+ckpt/
