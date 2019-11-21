@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-10000"
+all_model_checkpoint_paths: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-8001"
+all_model_checkpoint_paths: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-8501"
+all_model_checkpoint_paths: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-9001"
+all_model_checkpoint_paths: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-9501"
+all_model_checkpoint_paths: "E:\\zsm\\ads_cls\\data\\ckpt\\fasttext.ckpt-10000"
