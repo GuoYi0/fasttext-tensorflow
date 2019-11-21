@@ -3,6 +3,6 @@
 test.py
 __pycache__
 .git
-data/vocab
+data/vocab/*
 data/ckpt/*
-ckpt/
+ckpt/*

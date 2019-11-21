@@ -1,0 +1,2 @@
+fasttext 的tensorflow实现
+直接python classifier.py即可
